@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jirolaurenz0101@gmail.com**
 
-<br><br><br><br>
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
