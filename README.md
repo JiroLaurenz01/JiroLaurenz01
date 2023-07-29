@@ -43,6 +43,6 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" width="450" height="250"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" width="475" height="250"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" width="350" height="200"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" width="350" height="200"/>
 
