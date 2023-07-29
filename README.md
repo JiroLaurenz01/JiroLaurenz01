@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Jiro Laurenz Samia Agad! 👋
 
-<!--
-**JiroLaurenz01/JiroLaurenz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a 2nd-year Bachelor of Information Technology student at Polytechnic University of the Philippines. As a passionate and enthusiastic developer, my expertise lies in creating both desktop and website applications using ASP.Net and WinForms technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- Programming Languages: C, C++, C#, JavaScript, Java, Python
+- Web Development: ASP.Net
+- Desktop Application: WinForms
+
+## GitHub Stats
+
+- Total Contributions: [XX commits](https://github.com/JiroLaurenz01)
+- Total Stars: [XX stars](https://github.com/JiroLaurenz01?tab=stars)
+- Total Repositories: [XX repositories](https://github.com/JiroLaurenz01?tab=repositories)
+- Followers: [XX followers](https://github.com/JiroLaurenz01/followers)
+- Following: [XX following](https://github.com/JiroLaurenz01/following)
+
+## Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/jiro-laurenz-agad-222409266/
+- Email: jirolaurenz0101@gmail.com
+- Fiverr: https://www.fiverr.com/jiro_laurenz?public_mode=true
+
+Let's connect and collaborate on exciting projects together! Happy coding! 🚀🎉
