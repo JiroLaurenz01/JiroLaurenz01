@@ -45,7 +45,7 @@
 
 <br><br><br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirolaurenz01&theme=radical_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&" alt="jirolaurenz01" /></p>
 
