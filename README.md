@@ -47,11 +47,11 @@
 
 <h3 align="center">Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" width="47%"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" width="47%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=tokyonight" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=tokyonight" alt="jirolaurenz01" width="47%"/>
 </p>
 
