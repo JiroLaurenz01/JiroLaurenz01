@@ -17,14 +17,16 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jiro-laurenz-agad-222409266" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jiro-laurenz-agad-222409266"" /></a>
-<a href="https://www.codechef.com/users/jirolaurenz_01" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="jirolaurenz_01"/></a>
-<a href="https://www.codewars.com/users/JiroLaurenz" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="jiro_laurenz"/></a>
-<a href="https://www.leetcode.com/jiro_laurenz" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="jiro_laurenz"/></a>
+  <a href="https://linkedin.com/in/jiro-laurenz-agad-222409266" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jiro-laurenz-agad-222409266"" /></a>
+  <a href="https://www.codechef.com/users/jirolaurenz_01" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="jirolaurenz_01"/></a>
+  <a href="https://www.codewars.com/users/JiroLaurenz" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="jiro_laurenz"/></a>
+  <a href="https://www.leetcode.com/jiro_laurenz" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="jiro_laurenz"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -45,6 +47,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=radical"/>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" width="47%"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" width="47%"/>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" width="47%"/>
+</p>
 
