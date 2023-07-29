@@ -1,3 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)](https://rishavchanda.io
+)
 <h1 align="center">Hello 👋, I'm Jiro Laurenz Samia Agad</h1>
 <h3 align="center">I am a 2nd-year Bachelor of Information Technology student at Polytechnic University of the Philippines. As a passionate and enthusiastic developer, my expertise lies in creating both desktop and website applications using ASP.NET Core and WinForms technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
@@ -30,8 +33,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jirolaurenz01&show_icons=true&locale=en&layout=compact" alt="jirolaurenz01" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&locale=en" alt="jirolaurenz01" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&" alt="jirolaurenz01" /></p>
 
