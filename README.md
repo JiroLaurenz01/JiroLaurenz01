@@ -41,11 +41,7 @@
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jirolaurenz01&show_icons=true&locale=en&layout=compact" alt="jirolaurenz01" /></p>
-
-<br><br><br><br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&" alt="jirolaurenz01" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=radical" alt="jirolaurenz01" />
 
