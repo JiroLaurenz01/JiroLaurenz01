@@ -51,7 +51,10 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=tokyonight" width="47%"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=tokyonight" alt="jirolaurenz01" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jirolaurenz01&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jirolaurenz01&theme=tokyonight" alt="jirolaurenz01"/>
 </p>
 
