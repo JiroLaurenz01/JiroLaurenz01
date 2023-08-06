@@ -5,7 +5,10 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **School Management System**
+- 🔭 I’m currently working on:
+  - **School Management System**
+  - **Student Information Tracker**
+  - **Car Rental System**
 
 - 🌱 I’m currently learning **ASP.NET Core and Windows Forms Application**
 
