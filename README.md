@@ -48,6 +48,14 @@
 
 #
 
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://www.codewars.com/users/JiroLaurenz/badges/large"/>
+</p>
+
+
+#
+
 <h3 align="center">Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirolaurenz01&layout=compact&theme=tokyonight"/>
