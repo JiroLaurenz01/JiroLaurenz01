@@ -3,7 +3,7 @@
 <h3 align="center">I am a 2nd-year Bachelor of Information Technology student at Polytechnic University of the Philippines. As a passionate and enthusiastic developer, my expertise lies in creating both desktop and website applications using ASP.NET Core and WinForms technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-<br><br>
+<br>
 
 - 🔭 I’m currently working on:
   - **School Management System**
