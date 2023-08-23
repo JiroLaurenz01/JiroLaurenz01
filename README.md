@@ -49,7 +49,7 @@
 
 <h3 align="center">Profile Badges</h3>
 <p align="center">
-  <img src="https://www.codewars.com/users/JiroLaurenz/badges/large"/>
+  <a href = "https://www.codewars.com/users/JiroLaurenz"><img src="https://www.codewars.com/users/JiroLaurenz/badges/large"/></a>
 </p>
 
 
