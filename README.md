@@ -56,16 +56,21 @@
 #
 
 <h3 align="center">Open Source Projects</h3>
-<details>
-   <summary><h3>📘 Projects Done</h2></summary>
+<details open>
+   <summary><h3>📘 Done</h2></summary>
 <p align="center">
-    <a href="https://github.com/JiroLaurenz01/EnrollmentHub_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=EnrollmentHub_WinForms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EnrollmentHub_WinForms"></a>
-    <a href="https://github.com/JiroLaurenz01/MP3Tube_Converter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MP3Tube_Converter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MP3Tube_Converter"></a>
-    <a href="https://github.com/JiroLaurenz01/MorseCodeApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MorseCodeApp_WinForms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MorseCodeApp_WinForms"></a>
-    <a href="https://github.com/JiroLaurenz01/Basic-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Basic-CalculatorApp_WinForms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Basic-CalculatorApp_WinForms"></a>
-    <a href="https://github.com/JiroLaurenz01/Complex-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Complex-CalculatorApp_WinForms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Complex-CalculatorApp_WinForms"></a>
+    <a href="https://github.com/JiroLaurenz01/EnrollmentHub_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=EnrollmentHub_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="EnrollmentHub_WinForms"></a>
+    <a href="https://github.com/JiroLaurenz01/MP3Tube_Converter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MP3Tube_Converter&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="MP3Tube_Converter"></a>
+    <a href="https://github.com/JiroLaurenz01/MorseCodeApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MorseCodeApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="MorseCodeApp_WinForms"></a>
+    <a href="https://github.com/JiroLaurenz01/Basic-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Basic-CalculatorApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="Basic-CalculatorApp_WinForms"></a>
+    <a href="https://github.com/JiroLaurenz01/Complex-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Complex-CalculatorApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="Complex-CalculatorApp_WinForms"></a>
 </p>
+</details>
 
+<details open>
+   <summary><h3>📘 In Progress</h2></summary>
+<p align="center">
+    <a href="https://github.com/JiroLaurenz01/DiaryPlanner_Pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=DiaryPlanner_Pro&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="DiaryPlanner_Pro"></a>
 </details>
   
 #
