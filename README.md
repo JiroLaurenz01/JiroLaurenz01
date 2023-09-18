@@ -55,7 +55,7 @@
 
 #
 
-<h3 align="center">Open Source Projects</h3>
+<h3 align="center">Open Source Desktop Application Projects</h3>
 <details open>
    <summary><h3>📘 Done</h2></summary>
 <p align="center">
