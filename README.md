@@ -57,7 +57,7 @@
 
 <h3 align="center">Open Source Desktop Application Projects</h3>
 <details open>
-   <summary><h3>📘 Done</h2></summary>
+   <summary><h3>📘 Accomplished</h2></summary>
 <p align="center">
     <a href="https://github.com/JiroLaurenz01/EnrollmentHub_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=EnrollmentHub_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="EnrollmentHub_WinForms"></a>
     <a href="https://github.com/JiroLaurenz01/MP3Tube_Converter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MP3Tube_Converter&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="MP3Tube_Converter"></a>
