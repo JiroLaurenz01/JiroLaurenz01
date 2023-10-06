@@ -64,7 +64,7 @@
     <a href="https://github.com/JiroLaurenz01/MorseCodeApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=MorseCodeApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="MorseCodeApp_WinForms"></a>
     <a href="https://github.com/JiroLaurenz01/Basic-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Basic-CalculatorApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="Basic-CalculatorApp_WinForms"></a>
     <a href="https://github.com/JiroLaurenz01/Complex-CalculatorApp_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=Complex-CalculatorApp_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="Complex-CalculatorApp_WinForms"></a>
-    <a href="https://github.com/JiroLaurenz01/CustomAlertBox_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=CustomAlertBox_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="DiaryPlanner_Pro"></a>
+    <a href="https://github.com/JiroLaurenz01/CustomAlertBox_WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=CustomAlertBox_WinForms&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="CustomAlertBox_WinForms"></a>
 </p>
 </details>
 
@@ -72,6 +72,7 @@
    <summary><h3>📘 In Progress</h2></summary>
 <p align="center">
     <a href="https://github.com/JiroLaurenz01/DiaryPlanner_Pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=DiaryPlanner_Pro&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="DiaryPlanner_Pro"></a>
+    <a href="https://github.com/JiroLaurenz01/ContactMate_Pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JiroLaurenz01&repo=ContactMate_Pro&theme=tokyonight&bg_color=1A1B27&title_color=70A5FC&hide_border=false&icon_color=F8D866&show_icons=false" alt="ContactMate_Pro"></a>
 </details>
   
 #
