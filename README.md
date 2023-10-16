@@ -33,6 +33,7 @@
 #
 
 <h3 align="center">Languages and Tools</h3>
+<img src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" alt="c" width="50" height="50" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" align="left"/>
