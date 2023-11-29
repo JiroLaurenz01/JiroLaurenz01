@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on:
   - **School Management System**
-  - **Student Information Tracker**
-  - **Car Rental System**
   - **Diary and Planner Application**
 
 - 🌱 I’m currently learning **ASP.NET Core and Windows Forms Application**
