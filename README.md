@@ -5,8 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 - 🔭 I’m currently working on:
-  - **School Management System**
-  - **Diary and Planner Application**
+  - **School Management System - PUP Enrollment Hub**
+  - **Diary and Planner Application - Diary Planner Pro**
+  - **Contacts Management System - ContactMate Pro**
 
 - 🌱 I’m currently learning **ASP.NET Core and Windows Forms Application**
 
