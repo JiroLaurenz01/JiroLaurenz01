@@ -9,7 +9,7 @@
   - **Diary and Planner Application - Diary Planner Pro**
   - **Contacts Management System - ContactMate Pro**
 
-- 🌱 I’m currently learning **ASP.NET Core and Windows Forms Application**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JiroLaurenz01](https://github.com/JiroLaurenz01)
 
